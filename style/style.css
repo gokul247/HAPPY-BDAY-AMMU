@@ -222,7 +222,7 @@ body {
 
 #replay {
   z-index: 3;
-  cursor: pointer;
+  cursor:progress ;
 }
 
 /* Media Queries */
